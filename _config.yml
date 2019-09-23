@@ -23,14 +23,14 @@ name                     : "Objectprogr"
 description              : "My simple leranig tracker."
 url                      : "http://objectprogr.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "objectprogr/objectprogr.github.io"
+repository               : "objectprogr/objectprogr.github.io" # Github username/repo-name e.g. "mmistakes/minimal-mistakes" 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "utterances"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -41,8 +41,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+    theme                : "github-light"
+    issue_term           : "pathname"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
