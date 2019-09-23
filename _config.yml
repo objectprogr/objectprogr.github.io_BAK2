@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "MySimpleLearingTracker"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Objectprogr"
@@ -292,15 +292,13 @@ defaults:
       comments: # true
       share: true
       related: true
-
-      # Custom settings
-
-    custom:
-      landingpage:
-        publisheddate: true
-        postlogo: false
-      post:
-        authorname: false
-        publisheddate: true
-        edit: true
-        
+     
+# Show date on main page
+custom:
+  landingpage:
+    publisheddate: true
+    postlogo: false
+  post:
+    authorname: false
+    publisheddate: true
+    edit: true
