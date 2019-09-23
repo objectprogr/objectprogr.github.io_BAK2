@@ -66,8 +66,8 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
-search_full_content      : true
-search_provider          : lunr
+search_full_content      : # true
+search_provider          : # lunr (default), aligolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -292,3 +292,15 @@ defaults:
       comments: # true
       share: true
       related: true
+
+      # Custom settings
+
+    custom:
+      landingpage:
+        publisheddate: true
+        postlogo: false
+      post:
+        authorname: false
+        publisheddate: true
+        edit: true
+        
