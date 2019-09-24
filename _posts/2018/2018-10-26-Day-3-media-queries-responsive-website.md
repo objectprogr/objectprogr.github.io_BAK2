@@ -18,7 +18,7 @@ With the help of media queries we can define diffrent style adapted to diffrent 
 
 *See example code on my github*
 
-![Github](/assets/github.png) [Github](https://github.com/objectprogr/30dayschallenge/tree/day3MediaQueries)
+![Github](/assets/posts/media/github.png) [Github](https://github.com/objectprogr/30dayschallenge/tree/day3MediaQueries)
 
 [Interactive example ( resize your browser and look how change background and layout)](https://www.w3schools.com/css/tryit.asp?filename=trycss_mediaqueries_ex1 "Interactive example ( resize your browser and look how change background and layput)")
 
@@ -51,6 +51,6 @@ This is design technique websites so that its appearance nad layout it automatic
 
 [Wikipedia](https://pl.wikipedia.org/wiki/Responsive_web_design "Wikipedia")
 
-![Responsive web design](/assets/responsive_web_design.jpg)
+![Responsive web design](/assets/posts/media/responsive_web_design.jpg)
 
-*Source* [Medium](https://medium.com/level-up-web/best-practices-of-responsive-web-design-6da8578f65c4)
+*Source* [Medium](https://medium.com/level-up-web best-practices-of-responsive-web-design-6da8578f65c4)

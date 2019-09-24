@@ -20,7 +20,7 @@ A package manager or package management system is a collection of software tools
 
 ### Npm (Node Package Module)
 
-![npm](/assets/npm.png)
+![npm](/assets/posts/media/npm.png)
 
 npm is the package manager for JavaScript and the world’s largest software registry. We can use npm to:
 
@@ -52,7 +52,7 @@ But better way is using `package.json` - read npm [documentation](https://docs.n
 
 ### Yarn
 
-![yarn](/assets/yarn.png)
+![yarn](/assets/posts/media/yarn.png)
 
 Yarn is a package manager for your code. It allows you to use and share code with other developers from around the world. Yarn does this quickly, securely, and reliably so you don’t ever have to worry.
 Yarn dosn`t have a own repository, but using others repositories ex. npm repository. Yarn is faster than npm, and it is a fact. Check test - [npm vs yarn](https://medium.freecodecamp.org/npm-vs-yarn-benchmark-9b456de4aa96)

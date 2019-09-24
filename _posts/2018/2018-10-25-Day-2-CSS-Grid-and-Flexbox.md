@@ -16,7 +16,7 @@ toc_icon: "code"
 Grid is for multi-dimensional layouts (columns and rows).
 *See example code on my github*
 
-![Github](/assets/github.png) [Github](https://github.com/objectprogr/30dayschallenge)
+![Github](/assets/posts/media/github.png) [Github](https://github.com/objectprogr/30dayschallenge)
 
 Below basics syntax:
 
@@ -56,6 +56,6 @@ center: //Elements justify to center of container.
 
 #### Grid vs Flexbox
 
-![Grid vs Flexbox](/assets/grid_vs_flexbox.jpg)
+![Grid vs Flexbox](/assets/posts/media/grid_vs_flexbox.jpg)
 
 *Source: *[Quora](https://www.quora.com/What-should-I-learn-for-as-a-new-developer-a-CSS-grid-layout-Module-or-Flexbox "Quora")

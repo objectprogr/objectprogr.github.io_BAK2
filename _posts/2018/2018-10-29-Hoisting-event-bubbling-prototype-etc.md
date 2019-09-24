@@ -48,7 +48,7 @@ console.log(x);
 
 Event Bubbling is the event starts from the deepest element or target element to its parents, then all its ancestors which are on the way to bottom to top.
 
-![Event bubbling](/assets/event_bubbling.png)
+![Event bubbling](/assets/posts/media/event_bubbling.png)
 
 *Source [javascript.info](https://javascript.info/bubbling-and-capturing)*
 
@@ -61,7 +61,7 @@ Event Bubbling is the event starts from the deepest element or target element to
 The prototype is a reference to another object and it is used whenever JS can’t find the property you’re looking for on the current object. Prototype inheritance provide posibility interact with any elements as an object. 
 JavaScript objects have a link to a prototype object. When trying to access a property of an object, the property will not only be sought on the object but on the prototype of the object, the prototype of the prototype, and so on until either a property with a matching name is found or the end of the prototype chain is reached.
 
-![Prototype diagram](/assets/prototype_diagram.png)
+![Prototype diagram](/assets/posts/media/prototype_diagram.png)
 
 *More informations*
 [hackernoon.com](https://hackernoon.com/inheritance-in-javascript-21d2b82ffa6f)
