@@ -64,8 +64,8 @@ JavaScript objects have a link to a prototype object. When trying to access a pr
 ![Prototype diagram](/assets/posts/media/prototype_diagram.png)
 
 *More informations*
-[hackernoon.com](https://hackernoon.com/inheritance-in-javascript-21d2b82ffa6f)
-[MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-[medium.com - 1](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb)
-[medium.com - 2](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
-[stackoverflow](https://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical)
+- [hackernoon.com](https://hackernoon.com/inheritance-in-javascript-21d2b82ffa6f)
+- [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- [medium.com - 1](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb)
+- [medium.com - 2](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
+- [stackoverflow](https://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical)

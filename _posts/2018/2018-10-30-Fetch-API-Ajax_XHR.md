@@ -16,7 +16,7 @@ toc_icon: "code"
 This is interface which allows to asynchronous download of resources from server. Early to this we use object XMLHttpRequest (XHR). Fetch API was created for simplify communication with server. 
 Fetch API priovide objects: **Request, Response, Headers and Body**.
 
-![github](/assets/github.png) [Example code on my github](https://github.com/objectprogr/30dayschallenge/tree/day7FetchAPI)
+![github](/assets/posts/media/github.png) [Example code on my github](https://github.com/objectprogr/30dayschallenge/tree/day7FetchAPI)
 
 #### fetch() method:
 Basis work with Fetch API is using method `fetch()` to asynchronous download data from server.
