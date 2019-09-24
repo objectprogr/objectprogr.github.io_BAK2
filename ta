@@ -1,0 +1,119 @@
+[33mcommit d7f89bc03483d6dbe1408f4bb094a0f64f149497[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 14:39:00 2019 +0200
+
+    Update archive url - remove /
+
+[33mcommit c421733ef678e5546e331ad3617bd06e3d4b9dbc[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 14:36:11 2019 +0200
+
+    Change archive url
+
+[33mcommit 1e3172d557cf6b7df169928153d13ec8c32fc231[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 14:35:39 2019 +0200
+
+    Disable categories
+
+[33mcommit 292b57cf1b92a2c642e76db7a84a4a087a5a4ced[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 14:34:44 2019 +0200
+
+    Added tco table
+
+[33mcommit c94b83e7925431f27f6fda6ae915b26a8a1042b4[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 14:34:08 2019 +0200
+
+    Remove categories from metadata
+
+[33mcommit 5904ce6d9fd555f2c12e2016b25e1183d7843d32[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 14:28:02 2019 +0200
+
+    Added archve page
+
+[33mcommit e55924e880442f75cd91733a67e65d9746067bc1[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 14:25:00 2019 +0200
+
+    Added tags pageDisable jekyll archive
+
+[33mcommit 40d25f559b09594ab01d1fa27010154415286946[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 14:20:38 2019 +0200
+
+    Added tags page
+
+[33mcommit 24ba706ff4cedc11bf0894d9e8f7a5256f35ef45[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 14:06:35 2019 +0200
+
+    SImple fix with tags 404 error and enable archive
+
+[33mcommit e6511e5fb402cc07f57f0ef8d8b901eac0336489[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 13:51:48 2019 +0200
+
+    Table of content TEST
+
+[33mcommit bd366182553766767bf7838d705235b411113097[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 13:49:52 2019 +0200
+
+    added logo
+
+[33mcommit 9a24941646303730b18f2f01b164958d36a51232[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 13:36:57 2019 +0200
+
+    Update single layout - added published date
+
+[33mcommit 0a9617015006512742c26daba21751db574c7465[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 13:22:12 2019 +0200
+
+    Website title changed
+
+[33mcommit d85e96b53ca433b29653726978496e81cecd0dba[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 13:16:49 2019 +0200
+
+    Posts metada update
+
+[33mcommit 2be071acc40bdf680cfc2d05f615450117489cb5[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 13:08:12 2019 +0200
+
+    Test post date
+
+[33mcommit 2744e6a7f5c86a730ca532721fbbef476feb2f6b[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 12:43:22 2019 +0200
+
+    Added test post
+
+[33mcommit 54ea34274bb4ec9a1023076525147ac366a3fd4e[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 12:42:57 2019 +0200
+
+    Added avatar
+
+[33mcommit ae8ebd38bdacac4cc978ac5551192c8287bd3f3c[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 12:42:26 2019 +0200
+
+    First changes in _config.yml
+
+[33mcommit a8d6e44e8a5faf215cd39812b6535e1a244cf558[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 12:06:40 2019 +0200
+
+    Repair 1
+
+[33mcommit b2dcb0b8d4e7c5afd51cd5ddce8296d98adbf31a[m
+Author: objectprogr <objectprogr@gmail.com>
+Date:   Mon Sep 23 12:00:18 2019 +0200
+
+    Init
