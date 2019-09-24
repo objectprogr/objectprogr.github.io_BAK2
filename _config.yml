@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "Objectprogr"
   avatar           : "/assets/images/avatar.png"
-  bio              : "I am an **amazing** person."
+  #bio              : "I am an **amazing** person."
   location         : "Poland"
   email            : objectprogr@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:objectprogr@gmail.com
+      #url: mailto:objectprogr@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
